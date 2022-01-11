@@ -18,6 +18,21 @@ _File Organization_
 - Then import packages we need 
 - Declare functions and do things
 
-More Notes
+Types
 - Go is a statically typed language
 - Basic Go Types: bool, string, int, float64
+ ```
+	var card string = "Ace of Spades"
+
+	The line above can be written as: 
+	card := newCard()
+```
+- Go compiler will infer the type from the right side
+- := is only used on first initialization 
+
+
+
+Data Structures
+- Array: fixed length list of things 
+- Slice: An array that can grow or shrink
+- Every element in a slice must be of the same type
