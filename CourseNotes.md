@@ -30,9 +30,10 @@ Types
 - Go compiler will infer the type from the right side
 - := is only used on first initialization 
 
-
-
 Data Structures
 - Array: fixed length list of things 
 - Slice: An array that can grow or shrink
 - Every element in a slice must be of the same type
+
+Loops
+- "Range" is a keyword when we want to iterate over every element in a slice
