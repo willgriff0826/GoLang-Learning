@@ -18,3 +18,6 @@ _File Organization_
 - Then import packages we need 
 - Declare functions and do things
 
+More Notes
+- Go is a statically typed language
+- Basic Go Types: bool, string, int, float64
